@@ -1,6 +1,11 @@
 <img align="center" alt="Fer-pic" heigh="50" width="1400" src="https://user-images.githubusercontent.com/110926406/255982235-b8e9411d-ece5-4774-9bc2-5bb9e8d320d3.png">
 
 - Bem-vindo ao meu perfil!
+  - Sou a Júlia Araripe
+  - Monitora e QA na SPTech School
+  - Técnica em Administração pela ETEC Jorge Street
+  - Muito animada e legal! Porém depende.
+
   
 <div align="center">
   <a href="https://github.com/julia-araripe">
