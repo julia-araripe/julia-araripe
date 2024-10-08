@@ -3,7 +3,7 @@
 - Bem-vindo ao meu perfil!
   - Eu sou a Júlia Araripe
   - Técnica em Administração pela ETEC Jorge Street
-  - Cursando o 5º Semestre de Sistemas de Informação na São Paulo Tech School
+  - Cursando o 6º Semestre de Sistemas de Informação na São Paulo Tech School
   - Monitora Acadêmica e QA na São Paulo Tech School
   - Muito animada e legal! Porém depende.
 
