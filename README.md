@@ -4,7 +4,7 @@
   - Eu sou a Júlia Araripe
   - Técnica em Administração pela ETEC Jorge Street
   - Cursando o 7º Semestre de Sistemas de Informação na São Paulo Tech School
-    Já atuei na área de Qualidade na SPTech Consulting
+  - Já atuei na área de Qualidade na SPTech Consulting
   - Monitora Acadêmica e Assistente de Marketing na São Paulo Tech School
   - Sou muito animada e legal! Porém depende...
 
